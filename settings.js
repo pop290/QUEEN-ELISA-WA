@@ -29,7 +29,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
   OWNER_NAME: '$@C#!Y@',
-  OWNER_NUMBER: '94778571251','94712686646',
+  OWNER_NUMBER: '94778571251',
   SUDO: '94715166712',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
